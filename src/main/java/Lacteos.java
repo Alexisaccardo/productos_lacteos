@@ -5,7 +5,7 @@ public class Lacteos {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("***SISTEMA DE COMPRAS***");
+        System.out.println("***SISTEMA DE ELIMINACION DE PRODUCTOS***");
         System.out.println("Productos disponibles para eliminar: ");
         Select();
 
